@@ -8,6 +8,7 @@ Bu script ile çalışan socks5 proxyleri otomatik olarak projenize ekleyebilirs
 📚Gerekli Kütüphaneler
 - json
 - requests
+- sys
 
 👾Nasıl Kütüphane Kurulur?
 > pip install kütüphane_adı
