@@ -22,4 +22,4 @@ Bu script ile çalışan socks5 proxyleri otomatik olarak projenize ekleyebilirs
 
 🧮Konsol Çıktısı
 
-![Cikti](https://raw.githubusercontent.com/Headache01/Proxycek/main/cikti.png "cikti")
+![Cikti](https://raw.githubusercontent.com/Headache01/Proxycek/main/cikti.PNG "cikti")
